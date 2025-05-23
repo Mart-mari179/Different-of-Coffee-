@@ -1,0 +1,35 @@
+body { 
+    background-color: antiquewhite;
+    margin: 20px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 10px;
+   
+    
+}
+
+body{
+  margin: 20px;
+  border: 1px solid
+}
+
+h1 {
+    background-color: burlywood;
+  
+    padding-top: 50px;
+    margin: 20px;
+  }
+
+  h2 {
+    background-color: plum;
+    margin: 20px;
+  }
+
+  h3 {
+    background-color: peru;
+    margin: 20px;
+  }
+
